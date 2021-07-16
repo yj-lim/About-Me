@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yu Juan (YJ)
+- 👋 Hi, I’m Yu Juan (YJ).
 - 👀 I’m interested in Neuroscience, Pharmacology and Music. 
 - 🌱 I’m currently learning how to use GitHub.
 - 💞️ I’m looking to connect with researchers in biomedical science and public health.
