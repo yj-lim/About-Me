@@ -1,7 +1,7 @@
-- Hi, I’m Yu Juan (YJ) 👋
-- I’m interested in Neuroscience, Pharmacology, Social Demography and Music 🤩
-- I’m currently learning how to use GitHub 🤔
-- I’m looking to connect with researchers in biomedical science and public health 🤝
+- Hi, I’m Yu Juan.
+- I’m interested in Neuroscience, Pharmacology, Social Demography and Music.
+- I’m currently learning how to use WordPress, Python and GitHub. 
+- My life goal is to continuously equip myself with diverse skills and experiences to challenge myself, expand my horizons and contribute to the complex world we live in. 
 - You can reach me via LinkedIn (www.linkedin.com/in/limyujuan/) or via email (limyujuan@gmail.com) 📫
 
 <!---
