@@ -1,6 +1,5 @@
 - Hi, I’m Yu Juan.
-- I’m interested in Neuroscience, Pharmacology, Social Demography and Music.
-- I’m currently learning how to use WordPress, Python, HTML, Replit and GitHub.  
+- I’m interested in Neuroscience and Pharmacology.
 - You can reach me via LinkedIn (www.linkedin.com/in/limyujuan/) or via email (limyujuan@gmail.com).
 
 <!---
